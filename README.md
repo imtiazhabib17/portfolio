@@ -1,9 +1,8 @@
 # Data Scientist
 ### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 ### Education
-- Ph.D., Computer Science and Engineering | American International University- Bangladesh (May 2022)
-- M.S., Physics | The University of Texas at Dallas (December 2019)
-- B.S., Physics | The University of Texas at Dallas (May 2017)
+- B.Sc. in Computer Science and Engineering | American International University- Bangladesh (Mar 2023)
+
 ### Work Experience
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
 
